@@ -5,47 +5,47 @@
     "AdsController": [
       {
         "NetworkAds": "facebook",
-        "AdMobId": "pub-3940256099942544",
+        "AdMobId": "pub-9538560537207481",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-9538560537207481/8841319720",
+        "InterstitialAdmob": "ca-app-pub-9538560537207481/1541414208",
+        "NativeAdmob": "ca-app-pub-9538560537207481/5640441312", 
 
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+        "BannerFacebook": "1164654733947589_1164655027280893",
+        "InterstitialFacebook": "1164654733947589_1164655740614155",
+        "NativeFacebook": "1164654733947589_1164655983947464"
 
       }
     ],
 
-    "items": [
+   "items": [
       {
-        "title": "Friday Night Funkin: Intro",
-        "image": "https://raw.githubusercontent.com/youssefHairouch/list2/main/list2.png"
+        "title": "HAPPYMOD: Intro",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/1-HAPPY/main/1.png"
       },
       {
-        "title": "Boyfriend",
-        "image": "https://raw.githubusercontent.com/youssefHairouch/List1/main/list1.png"
+        "title": "BEST TWEAK APPS",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/2-HAPPY/main/2.png"
       },
       {
-        "title": "Girlfriend ",
-        "image": "https://raw.githubusercontent.com/youssefHairouch/list3/main/list3.png"
+        "title": "download apps now ",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/3-HAPPY/main/3.png"
       },
       {
-        "title": "Daddy Dearest",
-        "image": "https://raw.githubusercontent.com/youssefHairouch/list4/main/list4.png"
+        "title": "HAPPYMOD",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/4-HAPPY/main/11.png"
       },
       {
-        "title": "The mom",
-        "image": "https://raw.githubusercontent.com/youssefHairouch/list5/main/list5.png"
+        "title": "BEST APPS TRICKS",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/5-HAPPY/main/55.png"
       },
       {
-        "title": "Rules",
-        "image": "https://raw.githubusercontent.com/youssefHairouch/list6/main/list6.png"
+        "title": "GUIDE HAPPYMOD",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/6-HAPPY/main/21.png"
       },
       {
         "title": "Pico",
-        "image": "https://raw.githubusercontent.com/youssefHairouch/list7/main/list7.png"
+        "image": "https://raw.githubusercontent.com/youssefHairouch/1-HAPPY/main/1.png"
       }
     ],
 
@@ -58,8 +58,8 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Friday Night Funkin : Intro",
-        "isNative": "false"
+        "text": "HAPPYMOD : Intro",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -68,9 +68,9 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/youssefHairouch/list2/main/list2.png",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/1-HAPPY/main/1.png",
         "text": "Friday Night Funkin' is a Flash rhythm game originally created for Ludum Dare 47. Programmed by Ninjamuffin99 with soundtrack by Kawai Sprite and artwork by PhantomArcade and evilsk8r, it can be played/downloaded on Itch.io or played on Newgrounds for free. ",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -81,7 +81,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://raw.githubusercontent.com/youssefHairouch/list1.1/main/1.png",
         "text": "The plot of the game centers around our protagonist, Boyfriend, trying to hook up with Girlfriend, but her ex-rockstar father Daddy Dearest doesn't approve of him. It's up to Boyfriend to rap battle his way through him and anyone else that stands in his path so that he can finally kiss Girlfriend. Time to get freaky",
-        "isNative": "false"
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -109,8 +109,8 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Boyfriend",
-        "isNative": "false"
+        "text": "BEST TWEAK APPS",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -119,7 +119,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/youssefHairouch/List1/main/list1.png",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/2-HAPPY/main/2.png",
         "text": "Boyfriend is the protagonist of Friday Night Funkin'. He is on a mission to gain approval to date his Girlfriend, but must sing-off against her Father and many other characters that stand in his way. ",
         "isNative": "false"
       },
@@ -149,7 +149,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Girlfriend",
+        "text": "TRICKS HAPPYMOD",
         "isNative": "false"
       },
       {
@@ -159,7 +159,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/youssefHairouch/list3/main/list3.png",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/3-HAPPY/main/3.png",
         "text": "Girlfriend is the Boyfriend's love interest and the daughter of Daddy Dearest and The Mom. She is usually seen sitting on top of the speakers, bopping her head to the tempo of the music and cheering you on. During the Tutorial, she teaches you how to play and keeps track of your combos throughout the game",
         "isNative": "true"
       },
@@ -183,7 +183,7 @@
         "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
         "image_link": "https://raw.githubusercontent.com/youssefHairouch/list3.2/main/32.png",
         "text": "During Week 5, she wears a sleeveless red dress with a fluffy white collar, along with red gloves with white cuffs, white thigh-high stockings with small red bows and yellow bell earrings. The speakers she sits on are wrapped in festive lights. ",
-        "isNative": "false"
+        "isNative": "true"
       }
     ],
     
@@ -197,8 +197,8 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": " Daddy Dearest ",
-        "isNative": "false"
+        "text": " download apps now ",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -207,7 +207,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/youssefHairouch/list4/main/list4.png",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/4-HAPPY/main/11.png",
         "text": "Daddy Dearest is the father of Girlfriend, husband of The Mom, the main antagonist of Week 1 and one of the antagonists during Week 5. He's a former rockstar, and doesn't approve of our protagonist, Boyfriend, dating his daughter. His songs are Bopeebo, Fresh, and Dadbattle. He also appears in Cocoa and Eggnog in Week 5, alongside The Mom. ",
         "isNative": "false"
       },
@@ -220,7 +220,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://raw.githubusercontent.com/youssefHairouch/list4.1/main/41.png",
         "text": "The father has a demonic-looking appearance with purple skin, black eyes with red glowing pupils, and greyish-lilac hair vaguely shaped like a demon's horns. He wears an open black suit jacket with no shirt underneath that reveals his grey chest and pubic hair, and black pants that are held by a belt with a golden buckle. He wears a silver watch and holds his microphone with his left hand.",
-        "isNative": "false"
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -246,7 +246,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "The Mom",
+        "text": "BEST TRICKS",
         "isNative": "false"
       },
       {
@@ -256,7 +256,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/youssefHairouch/list5/main/list5.png",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/5-HAPPY/main/55.png",
         "text": "The Mom is the mother of Girlfriend and the wife of Daddy Dearest. She is the main antagonist of Week 4 and Week 5 along with Daddy Dearest. Her tracks during Week 4 include Satin Panties, High and M.I.L.F and her tracks for Week 5 are Cocoa and Eggnog.",
         "isNative": "true"
       },
@@ -294,7 +294,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Friday night funkin: Rules",
+        "text": "HAPPYMOD: Rules",
         "isNative": "false"
       },
       {
@@ -304,7 +304,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/youssefHairouch/list6/main/list6.png",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/6-HAPPY/main/21.png",
         "text": "Before you get started, here's a list of our rules. It is important that you read and understand them before continuing on. We highly encourage users to edit, even if you aren't experienced. If you make a mistake, the staff or other users can help to rectify any problems. We all share a common goal of improving the wiki and making it an accurate source for all Friday Night Funkin' fans and newcomers. ",
         "isNative": "true"
       },
@@ -343,7 +343,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "Pico ",
-        "isNative": "false"
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -352,7 +352,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/youssefHairouch/list7/main/list7.png",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/1-HAPPY/main/1.png",
         "text": "Pico is the antagonist of Week 3. His tracks include Pico, Philly and Blammed.He was teased alongside Tankman, Cassette Girl and Hank J. Wimbleton on the 15th of November 2020 and was added to the game with the release of Week 3 on the 11th of December, 2020. ",
         "isNative": "false"
       },
@@ -376,7 +376,7 @@
         "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
         "image_link": "https://raw.githubusercontent.com/youssefHairouch/list7.2/main/72.png",
         "text": "Pico originates from Pico's School, a point-and-click Flash game created by Newgrounds' founder Tom Fulp in 1999. Due to the game's popularity at the time, Pico quickly became a fan favorite around Newgrounds. ",
-        "isNative": "false"
+        "isNative": "true"
       }
     ]
   }
